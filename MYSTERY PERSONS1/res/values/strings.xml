@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mystery Persons</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_question1">Question #1</string>
+    <string name="title_activity_question_one">Question #1</string>
+    <string name="title_activity_category">Category</string>
+    <string name="title_activity_pol__question_one">Question #1</string>
+    <string name="title_activity_cel__question_one">Question #1</string>
+    <string name="title_activity_sci__question_one">Question #1</string>
+    <string name="title_activity_pro__question_one">Question #1</string>
+    <string name="mstry">Mystery Person</string>
+    <string name="btnstart">Start the game</string>
+    <string name="cat">Select Category</string>
+    <string name="img_pol">Politician</string>
+    <string name="img_cel">Celebrity</string>
+    <string name="img_sci">Scientist</string>
+    <string name="img_pro">Programmer</string>
+    <string name="pnts">Points: </string>
+    <string name="miriam">Miriam Santiago</string>
+    <string name="einstein">Albert Einstein</string>
+    <string name="solenn">Solenn Heussaff</string>
+    <string name="michael">Michael Abrash</string>
+
+</resources>
